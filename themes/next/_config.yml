@@ -42,6 +42,7 @@ menu:
   archives: /archives
   about: /about
   tags: /tags
+  leetcode: /leetcode
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -59,6 +60,7 @@ menu_icons:
   categories: th
   schedule: calendar
   tags: tags
+  leetcode: apple
   archives: archive
   #sitemap: sitemap
   #commonweal: heartbeat
@@ -135,7 +137,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
 social:
-  GitHub: https://github.com/RedDabbler
+  GitHub: https://github.com/huodongjie
   Weibo:
   Zhihu:
 
@@ -361,7 +363,7 @@ changyan:
 duoshuo_info:
   ua_enable: true
   admin_enable: false
-  user_id: 
+  user_id:
   #admin_nickname: Author
 
 
