@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 懵懂先知
-subtitle: 天道酬勤,功不唐捐
-description:
-author: 懵懂先知
+title: Deret
+subtitle: Stay Hungry, Stay Foolish
+description: 天道酬勤，功不唐捐
+author: Deret.H
 language: zh-Hans
-timezone:
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
